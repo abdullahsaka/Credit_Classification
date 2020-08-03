@@ -1,4 +1,4 @@
-# D.S-2-Classification
+# Classification Models
 This is a project that I did in my undergraduate studies on classification.
 
 This repository gives details about classification algorithm (tree package in R Studio).
